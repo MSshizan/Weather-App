@@ -95,7 +95,7 @@ suspend fun getCitySuggestions(
 
 ### 1 Clone the repo
 
-- git clone https://github.com/yourusername/weather-app.git
+- git clone https://github.com/MSshizan/weather-app.git
 
 ### Open project in Android Studio
 
