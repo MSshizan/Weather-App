@@ -16,13 +16,11 @@ The app fetches real-time weather data using the [WeatherAPI](https://www.weathe
 - ✅ **Retrofit + Coroutines** for smooth API calls  
 - ✅ **Jetpack Compose UI** for a modern, declarative UI experience  
 
----
+
 
 ## 📸 Screenshots
 
-> *(Add screenshots or GIFs here, e.g., hot weather vs cold weather backgrounds)*
-
----
+![Home Screen](Screenshot 2025-09-15 155750.png)
 
 ## 🛠️ Tech Stack
 
