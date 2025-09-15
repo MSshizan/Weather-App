@@ -28,6 +28,7 @@ The app fetches real-time weather data using the [WeatherAPI](https://www.weathe
 ![Home Screen](https://github.com/MSshizan/Weather-App/blob/38af0e2baee6c407c1d35e210cc87b4d91392118/Screenshot%202025-09-15%20155831.png)
 
 ### 🔍 No Internet or Invalid City   
+![Home Screen](https://github.com/MSshizan/Weather-App/blob/2d301f6d8b048c40dea0cfd4774f6f96150bc887/Screenshot%202025-09-15%20155909.png)
 
 ## 🛠️ Tech Stack
 
