@@ -20,7 +20,7 @@ The app fetches real-time weather data using the [WeatherAPI](https://www.weathe
 
 ## 📸 Screenshots
 
-![Home Screen](Screenshot 2025-09-15 155750.png)
+![Home Screen](assets/screenshot1.png)
 
 ## 🛠️ Tech Stack
 
@@ -31,23 +31,6 @@ The app fetches real-time weather data using the [WeatherAPI](https://www.weathe
 - **Dependency Injection:** Hilt  
 - **API:** [WeatherAPI](https://www.weatherapi.com/)  
 - **Other:** LiveData, Coil (AsyncImage for icons)
-
-## 📂 Project Structure
-
----
-
-app/
-├── data/
-│ ├── remote/ # Retrofit API definitions
-│ ├── repository/ # Repository implementation
-├── domain/
-│ ├── model/ # Data models (Weather, Location, City)
-│ ├── repository/ # Repository interfaces
-├── presentation/
-│ ├── viewmodel/ # Hilt ViewModel (business logic)  
-│ ├── ui/ # Compose screens & components
-├── di/ # Hilt modules
-└── utils/ # Helpers (LocationHelper, NetworkResponse, etc.)
 
 
 ## 🔑 Key Components
